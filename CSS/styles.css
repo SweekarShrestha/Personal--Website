@@ -12,6 +12,7 @@ a
   font-weight: bold;
 }
 
+
 h1
 {
   font-family: 'Sacramento', cursive;
@@ -110,10 +111,21 @@ hr
 .Education
 {
   margin: 50px auto 50px auto;
+  min-width: 1000px;
   background-color: white;
   color: black;
   font-weight: normal;
   position: relative;
+}
+
+.curriculum:hover
+{
+  color: #337FED;
+}
+
+.UTA-site:hover
+{
+  color: #337FED;
 }
 
 .education-row
@@ -226,6 +238,10 @@ hr
 	text-shadow:0 -1px 0 #5b6178;
 }
 
+.footer-link:hover
+{
+  color: white;
+}
 
 .btn:hover
 {
