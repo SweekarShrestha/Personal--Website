@@ -89,6 +89,17 @@ hr
   padding-top: 150px;
 }
 
+.Project-Description
+{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Intro
+{
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 .course-list
 {
